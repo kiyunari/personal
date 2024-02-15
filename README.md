@@ -5,9 +5,7 @@
 
 ## 프로젝트 목표
 취업을 위한 포트폴리오 제작, 자신의 작업을 전시하고 홍보
-```bash
-<h1>제목</h1>
-```
+
 ## 기술 스텍
 (프로젝트를 개발할 때 사용한 기술 스택과 도구를 나열)
 - HTML5
@@ -29,6 +27,7 @@
 - L.POINT https://kiyunari.github.io/pf2/
 - HBpaper https://kiyunari.github.io/pf3/
 - HITEjinro https://kiyunari.github.io/pf4/
+  
 ## 스크린샷 또는 데모(포트폴리오 웹사이트의 스크린샷을 추가)
 ![pf 1아큐닉](https://github.com/kiyunari/personal/assets/150096237/e03b7d46-71ba-4f3c-8c03-d55ab9faafee)
 ![pf2 l포인트](https://github.com/kiyunari/personal/assets/150096237/fc8c9428-c889-4335-b11e-c6ce3fbff53e)
