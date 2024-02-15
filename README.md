@@ -7,8 +7,10 @@
 
 ## 기술 스텍
 (프로젝트를 개발할 때 사용한 기술 스택과 도구를 나열)
-- HTML
+- HTML5
 - css
+- jquery
+- javascript
 
 ## 기능 및 섹션
 (웹사이트의 주요 기능과 섹션을 설명)
@@ -20,14 +22,15 @@
 
 ## 포트폴리오 작품
 (작품들을 나열하고 각 작품에 대한 간략한 설명과 링크 제공)
-- 삼성전자 클론코딩 http://testyong.dothome.co.kr/pf1/main.html
-- 
+- ACCUNIQ https://kiyunari.github.io/pf1/
+- L.POINT https://kiyunari.github.io/pf2/
+- HBpaper https://kiyunari.github.io/pf3/
+- HITEjinro https://kiyunari.github.io/pf4/
 ## 스크린샷 또는 데모(포트폴리오 웹사이트의 스크린샷을 추가)
-![pf1](https://github.com/pageservice/personal/assets/71798491/040b7316-5c4c-4a09-b7e8-6c54d60ec832)
-![pf2](https://github.com/pageservice/personal/assets/71798491/1a7c723b-1e1b-4cb6-9f45-6b17b89482e9)
-
-![ww](https://github.com/pageservice/personal/assets/71798491/30c357e8-d39b-42e6-9c30-0db7706f73d4)
-
+![pf 1아큐닉](https://github.com/kiyunari/personal/assets/150096237/e03b7d46-71ba-4f3c-8c03-d55ab9faafee)
+![pf2 l포인트](https://github.com/kiyunari/personal/assets/150096237/fc8c9428-c889-4335-b11e-c6ce3fbff53e)
+![pf3 hb페이퍼](https://github.com/kiyunari/personal/assets/150096237/faf5927c-51f3-44f2-85b1-26f28ea1b308)
+![pf4 하이트진로](https://github.com/kiyunari/personal/assets/150096237/22471d83-1d7a-4dd8-b442-62151ec22efc)
 
 
 ## 작성자 정보
